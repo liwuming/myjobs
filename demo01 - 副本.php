@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-demo01
-=======
 <?php
 	echo time();
 	
@@ -17,4 +14,3 @@ demo01
 	
 	xxx
 	*/
->>>>>>> master
